@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2016gnev.iml" filepath="$PROJECT_DIR$/.idea/2016gnev.iml" />
       <module fileurl="file://E://2016gnev/../2016gnev/../../gnev7/.idea/2016gnev.iml" filepath="E://2016gnev/../2016gnev/../../gnev7/.idea/2016gnev.iml" />
     </modules>
   </component>
